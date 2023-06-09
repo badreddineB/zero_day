@@ -1,1 +1,1 @@
-When the uname command is executed without any options, it prints the kernel name of the operating system. This is typically "Linux" for Linux-based systems.
+'uname' command is executed without any options, it prints the kernel name of the operating system. This is typically "Linux" for Linux-based systems.
